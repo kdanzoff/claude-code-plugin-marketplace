@@ -1,0 +1,17 @@
+{
+    "name": "kdanzoff",
+    "description": "Claude Code plugins by KDANZ",
+    "owner": {
+        "name": "KDANZ"
+    },
+    "plugins": [
+        {
+            "name": "statusline",
+            "description": "A band above the prompt showing the folder, git branch, model and a gauge of the context window in use.",
+            "source": {
+                "source": "github",
+                "repo": "kdanzoff/statusline-claude-code-plugin"
+            }
+        }
+    ]
+}
