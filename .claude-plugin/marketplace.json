@@ -6,11 +6,11 @@
     },
     "plugins": [
         {
-            "name": "statusline",
-            "description": "A band above the prompt showing the folder, git branch, model and a gauge of the context window in use.",
+            "name": "topline",
+            "description": "top for Claude Code: a band above the prompt with the folder, git branch, model and effort, the context gauge, and the account's 5-hour and weekly limits, shared by every open session.",
             "source": {
                 "source": "github",
-                "repo": "kdanzoff/statusline-claude-code-plugin"
+                "repo": "kdanzoff/topline-claude-code-plugin"
             }
         }
     ]

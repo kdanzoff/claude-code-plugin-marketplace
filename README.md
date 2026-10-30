@@ -8,14 +8,14 @@ Add the marketplace, then install a plugin from it:
 
 ```
 /plugin marketplace add kdanzoff/claude-code-plugin-marketplace
-/plugin install statusline@kdanzoff
+/plugin install topline@kdanzoff
 ```
 
 ## Plugins
 
 | Plugin | What it does | Repository |
 | --- | --- | --- |
-| `statusline` | A band above the prompt showing the folder, git branch, model and a gauge of the context window in use. | [kdanzoff/statusline-claude-code-plugin](https://github.com/kdanzoff/statusline-claude-code-plugin) |
+| `topline` | top for Claude Code: a band above the prompt with the folder, git branch, model and effort, the context gauge, and the account's 5-hour and weekly limits, shared by every open session. | [kdanzoff/topline-claude-code-plugin](https://github.com/kdanzoff/topline-claude-code-plugin) |
 
 ## Adding a plugin
 
